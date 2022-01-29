@@ -1,5 +1,5 @@
 ## Student Result Sheet Template Using Tailwindcss
 
-This is a HTML template for colage student termly report sheet.
+This is a HTML template for college student termly report sheet.
 
 [Preview]() 
